@@ -1,0 +1,2 @@
+This is a project done in MATLAB. 
+Through the help of image processing in MATLAB I was able to build a smart traffic light system that controlled traffic based on the density of cars in a particular lane.
